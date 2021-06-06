@@ -68,7 +68,7 @@ body {
     
 }
 .dealof {
-    background-color:rgb(141, 196, 141);
+    background-color:black;
   
     border-radius: 5px;
     font-weight:bolder !important;
@@ -77,9 +77,10 @@ body {
     
 }
 .dealof h2{
-    font-weight: 900;
-    color: black;
-    font-family: fantasy;
+    font-weight:bolder;
+    color:white;
+    font-family:cursive;
+    text-align: center;
 }
 /*Brands*/
 .Brand {
