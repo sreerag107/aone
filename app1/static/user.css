@@ -1,0 +1,165 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.search button {
+    padding: 5px;
+    border: none;
+    height: 38px;
+    width:40px;
+    border-radius: 2px;
+    
+    
+}
+
+.search input[type=search]{
+    border-radius: 0px;
+    border:none;
+}
+@media only screen and (min-width: 1025px){
+    .search{
+    padding-left: 80px;
+} 
+}
+@media only screen and (min-width: 1025px){
+
+
+    .collapse ul{
+    
+    padding-left: 60px;
+}
+}
+.navbar-brand {
+    font-weight: 600;
+    font-style: italic;
+    font-family:cursive;
+    background-color: crimson;
+    
+}
+@media only screen and (min-width: 400px){
+    .slider{
+        padding-top: 100px;
+        margin-bottom: 10px;
+        
+        
+
+    }
+}
+
+@media only screen and (max-width: 375px){
+    .slider {
+    padding-top: 140px !important;
+}
+}
+/*--deal--*/
+.Deal{
+    margin: 50px 0;
+}
+.Deal img {
+    width: 100%;
+    padding: 20px 0;
+    transition: 1s;
+    cursor: pointer;
+}
+.Deal img:hover {
+    transform: scale(1.1);
+    
+}
+.dealof {
+    background-color:rgb(141, 196, 141);
+  
+    border-radius: 5px;
+    font-weight:bolder !important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ffff;
+    
+}
+.dealof h2{
+    font-weight: 900;
+    color: black;
+    font-family: fantasy;
+}
+/*Brands*/
+.Brand {
+    margin: 50px 0;
+}
+.Brand img {
+    width: 100%;
+    padding: 20px 0;
+    transition: 1s;
+    cursor: pointer;
+}
+.Brand img:hover {
+    transform: scale(1.1);
+}
+.brand{
+    padding-left: 30px;
+    background-color: lightcoral;
+    height: 50px;
+}
+.brand h2{
+    font-weight: 900;
+    font-size: xx-large;
+    font-family: fantasy;
+    
+
+    
+}
+/*---appliances*/
+.Home{
+    margin: 50px 0;
+}
+.Home img{
+    width: 100%;
+    padding: 20px 0;
+    transition: 1s;
+    cursor: pointer;
+
+}
+.Home img:hover{
+    transform: scale(1.1);
+}
+.mi{
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.preethi{
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.preethi1{
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.preethi2{
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.preethi3{
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.preethi4{
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+/*--footer*/
+
+
+
+.Footer{
+    margin-top: 50px;
+    background-color:#424242;
+    color:#ffff;
+}
+.Footer p{
+    cursor: pointer;
+}
